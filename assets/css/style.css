@@ -584,6 +584,7 @@ margin-left: 45%;
 
 .services .icon-box:hover::before {
   background: #e43c5c;
+  color: #fff;
   top: 0;
   border-radius: 0px;
 }
@@ -592,10 +593,10 @@ margin-left: 45%;
   margin-bottom: 15px;
 }
 
-.services .icon i {
+.services .icon > .iconify {
   font-size: 48px;
   line-height: 1;
-  color: #e43c5c;
+  color: #000000;
   transition: all 0.3s ease-in-out;
 }
 
