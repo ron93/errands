@@ -70,13 +70,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo {
-  font-size: 30px;
+  /* font-size: 30px; */
   margin: 0;
   padding: 0;
   line-height: 1;
   font-weight: 600;
   letter-spacing: 1px;
   text-transform: uppercase;
+
 }
 
 #header .logo a {
@@ -84,11 +85,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo img {
-  max-height: 40px;
+  margin-top: -40px;
+  max-height: 250px;
+  /* height: 100px; */
+  /* width: 100px; */
 }
 
 #header.header-scrolled, #header.header-inner-pages {
-  background: rgba(0, 0, 0, 0.9);
+  background: rgba(0, 0, 0, 0.295);
   padding: 12px 0;
 }
 
