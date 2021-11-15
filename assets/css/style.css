@@ -85,8 +85,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo img {
-  margin-top: -40px;
-  max-height: 250px;
+  max-height: 100px;
   /* height: 100px; */
   /* width: 100px; */
 }
